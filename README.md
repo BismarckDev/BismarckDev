@@ -1,21 +1,29 @@
 Bem-vindo(a) ao perfil do BismarckDev 👋
 
-Olá! Me chamo Bismarck Bahia, tenho 36 anos e estou em uma fase transformadora da minha vida profissional. Em 2024, iniciei meus estudos em programação e rapidamente descobri uma verdadeira paixão pela área. Sempre tive fascínio pelo impacto da tecnologia no mundo, e foi na programação que encontrei uma forma de unir criatividade, resolução de problemas e desafios constantes.
-
-Atualmente, estou matriculado no DevClub e também no curso de Programador Web pela UFRS. Em ambos, venho me dedicando ao desenvolvimento Front-end, com foco em HTML, CSS e JavaScript. Recentemente, comecei a estudar React e Node.js para aprofundar minhas habilidades e expandir meus conhecimentos em tecnologias modernas.
-
-
- <div>
-   <a href="https://github.com/BismarckDev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BismarckDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BismarckDev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
+Olá! Me chamo Bismarck Bahia sou um programador Front-end, com foco em:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+<br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=BismarckDev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BismarckDev&show_icons=true" />
+</picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BismarckDev&hide_progress=true)
+
+
+
+
  
 
  
