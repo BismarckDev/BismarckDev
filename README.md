@@ -19,7 +19,10 @@ Olá! Me chamo Bismarck Bahia sou um programador Front-end, com foco em:
   <img src="https://github-readme-stats.vercel.app/api?username=BismarckDev&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BismarckDev&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BismarckDev&layout=compact)
+
+
+
 
 
 
